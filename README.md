@@ -1,1 +1,1 @@
-This Tushar's git project.
+This is Tushar's git project.
